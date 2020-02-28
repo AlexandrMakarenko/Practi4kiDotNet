@@ -1,0 +1,11 @@
+F:\LABDotNET\practi4ki\practi4ki\bin\Debug\netcoreapp3.1\practi4ki.exe
+F:\LABDotNET\practi4ki\practi4ki\bin\Debug\netcoreapp3.1\practi4ki.deps.json
+F:\LABDotNET\practi4ki\practi4ki\bin\Debug\netcoreapp3.1\practi4ki.runtimeconfig.json
+F:\LABDotNET\practi4ki\practi4ki\bin\Debug\netcoreapp3.1\practi4ki.runtimeconfig.dev.json
+F:\LABDotNET\practi4ki\practi4ki\bin\Debug\netcoreapp3.1\practi4ki.dll
+F:\LABDotNET\practi4ki\practi4ki\bin\Debug\netcoreapp3.1\practi4ki.pdb
+F:\LABDotNET\practi4ki\practi4ki\obj\Debug\netcoreapp3.1\practi4ki.csprojAssemblyReference.cache
+F:\LABDotNET\practi4ki\practi4ki\obj\Debug\netcoreapp3.1\practi4ki.AssemblyInfoInputs.cache
+F:\LABDotNET\practi4ki\practi4ki\obj\Debug\netcoreapp3.1\practi4ki.AssemblyInfo.cs
+F:\LABDotNET\practi4ki\practi4ki\obj\Debug\netcoreapp3.1\practi4ki.dll
+F:\LABDotNET\practi4ki\practi4ki\obj\Debug\netcoreapp3.1\practi4ki.pdb
