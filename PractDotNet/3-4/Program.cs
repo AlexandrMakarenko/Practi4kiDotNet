@@ -62,7 +62,6 @@ namespace HttpServer
                     Console.WriteLine("Ввод логина и пароля.");
                 }
 
-                // без этой ***** не работает, я не знаю как это всё правильно делать, можно зачет?
 
                 if (req.HttpMethod == "GET" && req.Url.AbsolutePath == "/img")
                 {
@@ -129,7 +128,7 @@ namespace HttpServer
                 }
                 await resp.OutputStream.WriteAsync(data, 0, data.Length);
                 resp.Close();
-                // Если вы дочитали до этой строчки, плез дайте зачет и Спасибо Валере, ну конечно я всё делал сам.(но это не точно)
+                // Если вы дочитали до этой строчки. ну конечно я всё делал сам.(но это не точно)
             }
         }
     }
