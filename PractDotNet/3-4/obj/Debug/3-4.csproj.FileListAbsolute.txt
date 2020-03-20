@@ -1,0 +1,6 @@
+D:\PractDotNet\3-4\bin\Debug\3-4.exe.config
+D:\PractDotNet\3-4\bin\Debug\3-4.exe
+D:\PractDotNet\3-4\bin\Debug\3-4.pdb
+D:\PractDotNet\3-4\obj\Debug\3-4.csprojAssemblyReference.cache
+D:\PractDotNet\3-4\obj\Debug\3-4.exe
+D:\PractDotNet\3-4\obj\Debug\3-4.pdb
